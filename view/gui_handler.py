@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# vi:ts=4 sw=4 et
 
 from tkinter import Toplevel,Frame, Tk, Label, Button, Entry, StringVar
 from tkinter import messagebox
